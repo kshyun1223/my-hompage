@@ -1,0 +1,9 @@
+{
+  "name": "my-hompage",
+  "author": "Seunghyun Kim",
+  "email": "kshyun.dev@gmail.com",
+  "main": "index.js",
+  "scripts": {},
+  "repository": "https://github.com/kshyun1223/my-hompage",
+  "license": "Copyright 2022. Seunghyun Kim. All rights reserved."
+}
