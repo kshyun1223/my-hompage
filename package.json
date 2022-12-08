@@ -5,5 +5,9 @@
   "main": "index.js",
   "scripts": {},
   "repository": "https://github.com/kshyun1223/my-hompage",
-  "license": "Copyright 2022. Seunghyun Kim. All rights reserved."
+  "license": "Copyright 2022. Seunghyun Kim. All rights reserved.",
+  "dependencies": {
+    "marked": "^4.2.4",
+    "ts-node": "^10.9.1"
+  }
 }
