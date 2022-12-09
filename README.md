@@ -14,4 +14,4 @@
 - dynamoose: MongoDB의 mongoose와 유사한 ODM(Object Data Mapping) 툴. RDBMS의 ORM은 편의적인 성격이 큰 반면, NoSQL에서는 원활한 협업과 유지보수를 위해 가급적 ODM을 사용해야 할 것으로 보임.
 
 ### DB서버
-- DB서버는 AWS의 DynamoDB를 
+- DB서버는 AWS의 DynamoDB를 사용
