@@ -2,7 +2,7 @@
 ## 아키텍처
 ### 개요
 - 전체적으로 웹서버와 DB서버로 구성됨
-- 설계도 피그잼 링크: https://www.figma.com/file/Dk27FnkDnW8nDTyPdlUUKm/myhomepage-project-architecture?t=3XalnG514n5f9vbY-6
+- 설계도 피그잼 링크 => https://www.figma.com/file/Dk27FnkDnW8nDTyPdlUUKm/myhomepage-project-architecture?t=3XalnG514n5f9vbY-6
 
 ### 웹서버
 - 웹서버는 EC2 인스턴스에 우분투를 탑재함
